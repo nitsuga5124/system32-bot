@@ -1,0 +1,46 @@
+{
+	"__meta__": {
+		"Playlist": "https://www.youtube.com/playlist?list=PLYeOw6sTSy6ZGyygcbta7GcpI8a5-Cooc",
+		"Repo": "https://github.com/Carberra/updated-discord.py-tutorial"
+	},
+	"software": {
+		"Video": "https://youtu.be/330Qxke3YrI?t=14",
+		"Python": "https://www.python.org/downloads/",
+		"Sublime Text": "https://www.sublimetext.com/3",
+		"DB Browser for SQLite": "https://sqlitebrowser.org/dl/",
+		"Git": "https://git-scm.com/downloads",
+		"GitHub Desktop": "https://desktop.github.com/",
+		"Windows Terminal Preview": "https://desktop.github.com/",
+		"FileZilla": "https://filezilla-project.org/download.php"
+	},
+	"pip installs": {
+		"Video": "https://youtu.be/330Qxke3YrI?t=188"
+	},
+	"installing discord-ext-menus": {
+		"Video": "https://youtu.be/330Qxke3YrI?t=320"
+	},
+	"creating the bot": {
+		"Video": "https://youtu.be/b61kcgfOm_4?t=14",
+		"Discord Developer Portal": "https://discord.com/developers/applications"
+	},
+	"creating a repository": {
+		"Video": "https://youtu.be/CwGkU8zAwVk?t=25",
+		"GitHub": "https://github.com"
+	},
+	"cloning the repository": {
+		"Video": "https://youtu.be/CwGkU8zAwVk?t=184"
+	},
+	"creating a gitignore": {
+		"Video": "https://youtu.be/CwGkU8zAwVk?t=266",
+		"Code": "https://github.com/Carberra/updated-discord.py-tutorial/blob/83286a562091aed5e3b01d6391f633afe362c291/.gitignore"
+	},
+	"creating a database": {
+		"Video": "https://youtu.be/4EIy0bw7s-s?t=607",
+		"Code": "https://github.com/Carberra/updated-discord.py-tutorial/blob/83286a562091aed5e3b01d6391f633afe362c291/data/db/build.sql"
+	},
+	"database functions": {
+		"Video": "https://youtu.be/4EIy0bw7s-s?t=67",
+		"Code (init)": "https://github.com/Carberra/updated-discord.py-tutorial/blob/83286a562091aed5e3b01d6391f633afe362c291/lib/db/__init__.py",
+		"Code (main)": "https://github.com/Carberra/updated-discord.py-tutorial/blob/83286a562091aed5e3b01d6391f633afe362c291/lib/db/db.py"
+	}
+}

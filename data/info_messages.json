@@ -1,0 +1,4 @@
+{
+	"online": "System32 is now online! (Version {version})",
+	"shutting down": "System32 is now shutting down. (Version {version})"
+}

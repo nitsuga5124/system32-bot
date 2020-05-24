@@ -1,0 +1,24 @@
+{
+	"topic source": {
+		"header": "Source",
+		"title": "Resources for \"{topic}\"",
+		"desc": "{links}"
+	},
+	"no topic": {
+		"header": "Source",
+		"desc": "You need to provide a topic. System32 will perform a search, so you don't need to be exact."
+	},
+	"topic search": {
+		"header": "Source",
+		"desc": "System32 found {lr:,} topics related to your search term. Select one below.",
+		"fields": {
+			"{page}": {
+				"value": "{value}"
+			}
+		}
+	},
+	"topic no results": {
+		"header": "Source",
+		"desc": "System32 couldn't find any topics similar to your search. Try another term."
+	}
+}

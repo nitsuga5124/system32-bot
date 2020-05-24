@@ -1,0 +1,8 @@
+{
+	"not ready": "System32 is not ready to receive commands. Try again in a few seconds.",
+	"something went wrong": "Something went wrong (ref: {ref}).",
+	"command went wrong": "Something went wrong.",
+	"missing required argument": "One or more required arguments are missing.",
+	"bad argument": "One or more arguments are invalid.",
+	"too many arguments": "Too many arguments have been passed."
+}

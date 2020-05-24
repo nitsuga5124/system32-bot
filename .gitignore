@@ -1,0 +1,6 @@
+token.*
+*.xcf
+*.db3
+*.db3-journal
+data/error_log.json
+__pycache__
