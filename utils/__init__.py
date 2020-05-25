@@ -5,10 +5,10 @@ from socket import AF_INET, SOCK_DGRAM
 
 
 def on_vps():
-	sock = socket(AF_INET, SOCK_DGRAM)
-	sock.connect(("8.8.8.8", 1))
+    sock = socket(AF_INET, SOCK_DGRAM)
+    sock.connect(("8.8.8.8", 1))
 
-	return sock.getsockname()[0] == "66.42.94.105"
+    return sock.getsockname()[0] == "66.42.94.105"
 
 
 def on_nt():

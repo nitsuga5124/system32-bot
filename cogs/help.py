@@ -5,20 +5,20 @@ from utils.sendables import infmsg
 
 
 class Help(Cog):
-	def __init__(self, bot):
-		self.bot = bot
+    def __init__(self, bot):
+        self.bot = bot
 
-	# 	bot.remove_command("help")
+    #       bot.remove_command("help")
 
-	# @command(name="help")
-	# async def display_help(self, ctx):
-	# 	await ctx.send(infmsg("help"))
+    # @command(name="help")
+    # async def display_help(self, ctx):
+    #       await ctx.send(infmsg("help"))
 
-	@Cog.listener()
-	async def on_ready(self):
-		if not self.bot.ready.bot:
-			self.bot.ready.up(self)
+    @Cog.listener()
+    async def on_ready(self):
+        if not self.bot.ready.bot:
+            self.bot.ready.up(self)
 
 
 def setup(bot):
-	bot.add_cog(Help(bot))
+    bot.add_cog(Help(bot))
