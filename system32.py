@@ -15,6 +15,6 @@ This code is licensed under the BSD 3-Clause License.
 
 from bot import bot
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 bot.run(VERSION)

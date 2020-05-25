@@ -54,7 +54,7 @@ class Source(Cog):
 				await ctx.send(embed=embed("topic no results", ctx, icon="error"))
 
 			elif len(results) == 1:
-				links = [f"[{k}]({v})" for k, v in topics[results[0]].items()]
+				links = [f"[{k}]({v})" for k, v in topics[str(results[0])].items()]
 				await ctx.send(embed=embed("topic source", ctx, icon="info", topic=results[0], links=" | ".join(links)))
 
 			else:
